@@ -7,7 +7,8 @@ This Data Annalysis is majorly on data cleaning
 The primary source of data used is TDI International workforce.xlsx
 
 ## Tools Used 
--Ms Excel for Data Cleaning 
+-Ms Excel for Data Cleaning
+
 -Ms power Bi
 
 ## Project Overview
