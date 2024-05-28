@@ -16,3 +16,7 @@ WHERE A
 ```
 
 ![](50ebaf3c8e4a42d09703dc1ad62c5151_1jpg)
+
+|Heading 1|Heading 2|Heading 3|
+|---------|---------|---------|
+|Data 1|Data 2|Data 3|
