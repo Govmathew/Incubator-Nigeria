@@ -14,3 +14,5 @@ The primary source of data used is TDI International workforce.xlsx
 ```
 WHERE A
 ```
+
+![](50ebaf3c8e4a42d09703dc1ad62c5151_1)
