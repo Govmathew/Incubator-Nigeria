@@ -15,7 +15,7 @@ The primary source of data used is TDI International workforce.xlsx
 WHERE A
 ```
 
-![](victor 1)
+![](victor 1 )
 
 |Heading 1|Heading 2|Heading 3|
 |---------|---------|---------|
